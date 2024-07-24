@@ -1,0 +1,38 @@
+.project > img {
+    width:350px;
+    height:179px;
+    
+  
+}
+
+.project {
+    margin:15px;
+    width:350px;
+    height:179px;
+    transition:transform 100ms ease-in;
+}
+
+.project:hover {
+    color:white;
+    background-color:rgb(4, 4, 50);
+    transform: scale(1.05);
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    cursor:pointer;
+}
+
+.project__content {
+    padding:10px;
+}
+
+.project__content > h4 {
+    padding-bottom:5px;
+}
+
+.project__content > P {
+    font-size:15px;
+}
+@media only screen and (min-width: 481px) and (max-width: 768px){
+  
+}

@@ -1,0 +1,14 @@
+.topContainer {
+    /*background:url("C:\Users\Ashwin Kumar B\OneDrive\Pictures\Saved Pictures\ashwin.jpg");*/
+    background:url("D:\FULLSTACK\FRONT-END\5.REACT\Portfolio\src\components\ProjectContainer\fr1.jpg");
+   
+    height:100vh;
+    background-position:center;
+    background-size:cover;
+    background-repeat:no-repeat;
+   box-shadow:inset 0 0 0 2000px rgba(1, 1, 1, 0.5);
+}
+
+@media only screen and (min-width: 481px) and (max-width: 768px){
+  
+}
